@@ -1,0 +1,144 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    position: relative;
+    min-height: 100%;
+  }
+
+  body {
+    margin-bottom: 45px; /* Margin bottom by footer height */
+    background-color: #2B3234;
+  } 
+
+  nav.navbar{
+     background-color: #2B3234;
+  }
+
+  a.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    /* background-color: #2B3234;  */
+  }
+
+  a.navbar-brand img {
+    height: 110%;
+    width: 100px;
+  }
+
+  div.about {
+      background-color: #a1afac;
+  }
+  .beat {
+      margin-top: 210px;
+  }
+  .up {
+      font-family: 'Anton', sans-serif;
+      font-size: 30px;
+      font-style: italic;
+      font-weight: bolder;
+      color: #f4f5f7;
+  }
+  .ups {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 29px;
+    color: #e7e8e9;
+
+  }
+  .ups + button {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    color: #f4f5f7 ;
+    background-color: #000;
+    font-weight: bolder;
+  }
+  .home {
+    background-color: #e6e7e8;
+  }
+  .home h1 {
+    font-family: 'Anton', sans-serif ;
+    font-weight: bold;
+  }
+  .hom {
+    margin-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+
+  }
+  .skill h1 {
+    font-family: 'Anton', sans-serif ;
+    font-weight: bold;
+    color: #e6e7e8;
+  }
+  .skil {
+    margin-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    color: #e6e7e8;
+
+  }
+.project h1 {
+  font-family: 'Anton', sans-serif ;
+  font-weight: bold;
+  color: #e6e7e8;
+}
+.proj {
+  margin-top: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  color: #e6e7e8;
+}
+.share {
+  background-color: #f2ac19;
+  text-align: center;
+}
+.sha {
+  font-family: 'Montserrat', sans-serif ;
+  color: #e6e7e8;
+  font-size: 24px;
+}
+.sha + a {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+
+}
+.shi a {
+  text-decoration: none;
+  color: #eef3f2;
+  font-family: monospace;
+  font-size: 20px;
+}
+.reco {
+  color: #8f8f90;
+  font-family: monospace;
+  font-size: 19px;
+  font-style: italic;
+}
+
+
+
+
+
+
+
+
+.footer {
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px; /* Set the fixed height of the footer here */
+  background-color: #2B3234;
+  color: #9d9d9d;
+} 
+
+.gap {
+  margin-top: 15px;
+}
+
+footer.footer, nav.navbar {
+  font-family: monospace;
+}
