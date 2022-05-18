@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+  I'm *Oyebamiji Mustapha Oyetunde*. People know me as musoye.i have experience in:
+-HTML
+-CSS
+-JS
+-Python. 
+
+  You can message me on [whatsapp](https://but.ly/mmusoye)
 <!--
 **Musoye/musoye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
