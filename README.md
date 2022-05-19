@@ -2,12 +2,12 @@
 
 You are welcome here
 
-  I'm *Oyebamiji Mustapha Oyetunde*. People know me as musoye.i have experience in:
+  I'm ***Oyebamiji Mustapha Oyetunde***. People know me as musoye.i have experience in:
   
--HTML
--CSS
--Js
--Python
+- HTML
+- CSS
+- Js
+- Python
 
 
 
