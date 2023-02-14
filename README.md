@@ -1,6 +1,6 @@
 ### Hi, you are welcome here
 
-  I'm ***Oyebamiji Mustapha Oyetunde***. People know me as `musoye`.I am a developing Software Engineer currentily enrolled at alx-africa.I manage a technical blog at hashnode, follow me and check [@musoye](https://musoye.hashnode.dev) to enjoy some sweet delicacy of writing.I have experience in and work with this languages `python, C, JavaScript, HTML, Css and many more`
+  I'm ***Oyebamiji Mustapha Oyetunde***. People know me as `musoye`.I am a developing Software Engineer currently enrolled at alx-africa.I manage a technical blog at hashnode, follow me and check [@musoye](https://musoye.hashnode.dev) to enjoy some sweet delicacy of writing.I have experience in and work with this languages `python, C, JavaScript, HTML, Css and many more`
 
   Ask me anything [here](https://bit.ly/mmusoye)
   
@@ -15,4 +15,4 @@
     
 [![Mustapha github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=musoye&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub metrics](https://metrics.lecoq.io/musoye7) 
+![GitHub metrics](https://metrics.lecoq.io/musoye) 
