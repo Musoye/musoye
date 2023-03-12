@@ -3,7 +3,7 @@ title: "Processes on Linux - an explanation."
 seoTitle: "Process as used as Linux."
 datePublished: Sun Mar 12 2023 18:56:20 GMT+0000 (Coordinated Universal Time)
 cuid: clf5rb4si000409jqghy811xt
-slug: processes-on-linux-an-explanation
+slug: processes-on-linux
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/WHWYBmtn3_0/upload/add2866bd8cf2f74125da23850e9168b.jpeg
 tags: linux, devops, shell, process
 
@@ -142,10 +142,10 @@ To kill or stop a process there are majorly three commands which include:
     kill PID
     ```
     
-* [killall](https://musoye.com)
+* [killall](https://man7.org/linux/man-pages/man1/killall.1.html#:~:text=killall%20sends%20a%20signal%20to,)%20or%20by%20option%20%2Ds.)
     
 * ```plaintext
-    killall processname
+      killall processname
     ```
     
 * [pkill](https://linuxhint.com/the-pkill-command-in-linux/)
