@@ -142,10 +142,10 @@ To kill or stop a process there are majorly three commands which include:
     kill PID
     ```
     
-* [killall](https://man7.org/linux/man-pages/man1/killall.1.html#:~:text=killall%20sends%20a%20signal%20to,)%20or%20by%20option%20%2Ds.)
+* [killall](https://www.google.com/amp/s/www.geeksforgeeks.org/killall-command-in-linux-with-examples/amp/)
     
 * ```plaintext
-      killall processname
+        killall processname
     ```
     
 * [pkill](https://linuxhint.com/the-pkill-command-in-linux/)
