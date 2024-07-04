@@ -1,6 +1,5 @@
 ### Hi, you are welcome here
-
-  I'm ***Oyebamiji Mustapha Oyetunde***. People know me as `musoye`.I am a developing Software Engineer currently enrolled at alx-africa.I manage a technical blog at hashnode, follow me and check [@musoye](https://musoye.hashnode.dev) to enjoy some sweet delicacy of writing.I have experience in and work with this languages `python, C, JavaScript, HTML, Css and many more`
+I'm ***Oyebamiji Mustapha Oyetunde***, known as Musoye. I am a developing Software Engineer who graduated from the ALX Software Engineering program and I'm currently pursuing my Computer Engineering degree at the Federal University of Technology in Akure (FUTA). I manage a technical blog on Hashnode [@musoye](https://musoye.hashnode.dev). I have experience in `Python, C, Golang, JavaScript and Bash(Shell Scripting)`, and I work with frameworks like Django, Flask, and Node.js. I am also skilled in DevOps tools such as Docker and Nginx. My current focus is exploring cutting-edge backend applications with Go and Machine Learning.
 
   Ask me anything [here](https://bit.ly/mmusoye)
   
