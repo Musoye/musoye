@@ -11,7 +11,3 @@ I'm ***Oyebamiji Mustapha Oyetunde***, known as Musoye. I am a developing Softwa
 	<img width=53% src="https://github-readme-stats.vercel.app/api?username=musoye&show_icons=true&theme=jolly&layout=compact" alt="stats"/>
   	<img width=44% src="https://github-readme-stats.vercel.app/api/top-langs/?username=musoye&langs_count=8&theme=jolly&layout=compact" alt="top langs"/>
     </div>
-    
-[![Mustapha github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=musoye&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![GitHub metrics](https://metrics.lecoq.io/musoye) 
